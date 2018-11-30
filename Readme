@@ -1,0 +1,60 @@
+Doc REactNative
+https://facebook.github.io/react-native/docs/getting-started.html
+
+Install NodeJs
+
+site de Node.js
+
+Assuming that you have Node installed
+
+npm install -g expo-cli
+
+expo init AwesomeProject
+// ex : expo init desinfox -t blank
+
+// Expo CLI is now initializing a new project: it copies a basic template and installs react, react-native and expo
+
+cd AwesomeProject
+
+npm start
+
+//Error
+//
+// expo start
+
+//This command requires Expo CLI.
+//Do you want to install it globally [Y/n]?
+
+// Solution trouvée :
+// https://stackoverflow.com/questions/53363716/expo-error-when-trying-to-global-install-cli-after-update
+
+…
+// Looks good
+
+Install the Expo client app on your iOS or Android phone and connect to the same wireless network as your computer
+
+// Open expo on virtual device.
+// Run project on home page
+Or on http://localhost:19002/
+Run on Android device/emulator
+
+// Unusable
+on an Android Virtual Device by 
+running 
+npm run android
+
+// Start Change
+Open up screens/HomeScreen.js in your new project and change any of the text in the render() function. You should see your app reload with your changes.
+
+
+// Expo SDK
+The Expo SDK provides access to system functionality such as contacts, camera, and social login.
+
+https://docs.expo.io/versions/latest/sdk/index.html
+
+npm install --save expo
+
+Expo SDK Version	React Native Version
+31.0.0	0.57.1
+
+
