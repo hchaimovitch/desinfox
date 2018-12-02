@@ -24,15 +24,18 @@ export default class App extends React.Component {
 
   componentDidMount(){
     console.log('Did Mont');
-    NfcManager.isSupported()
-    .then(supported => {
-        this.setState({ supported });
-        if (supported) {
-            this._startNfc();
-        } else {
-          console.log('not supported');
-        }
-    })
+    if ( typeof (NfcManager) !== 'undefined') {
+      NfcManager.isSupported()
+        .then(supported => {
+            this.setState({ supported });
+            if (supported) {
+                this._startNfc();
+            } else {
+              console.log('not supported');
+            }
+        })
+    }
+    
 
    var res = data.news;
    var indice = getNews();
