@@ -1,0 +1,21 @@
+{
+  "arguements": [
+    {
+      "idEvent":"1",
+      "type":"PO",
+      "title":"Title Evenement Extérieur",
+      "shortDescription": "Short Description Event",
+      "description": "Description évenement extérieur",
+      "category": "EE"
+    },
+    {
+        "idEvent":"2",
+        "type":"CO",
+        "title":"Title Lobby",
+        "shortDescription": "Short Description Lobby",
+        "description": "Description Lobby",
+        "category": "LO"
+    }
+]
+}
+  

@@ -1,0 +1,96 @@
+{
+  "arguements": [
+    {
+      "IdArguments":"1",
+      "category":"ARG",
+      "type":"PO",
+      "force": "3",
+      "value": "150"
+    },
+    {
+        "IdArguments":"2",
+        "category":"ARG",
+        "type":"CO",
+        "force": "2",
+        "value": "75"
+      },
+      {
+        "IdArguments":"3",
+        "category":"ARG",
+        "type":"PO",
+        "force": "1",
+        "value": "50"
+      },
+      {
+        "IdArguments":"4",
+        "category":"ARG",
+        "type":"CO",
+        "force": "3",
+        "value": "200"
+      },
+      {
+        "IdArguments":"5",
+        "category":"ARG",
+        "type":"PO",
+        "force": "3",
+        "value": "200"
+      },
+      {
+        "IdArguments":"6",
+        "category":"ARG",
+        "type":"PO",
+        "force": "3",
+        "value": "150"
+      },
+      {
+        "IdArguments":"7",
+        "category":"ARG",
+        "type":"C0",
+        "force": "1",
+        "value": "50"
+      },
+      {
+        "IdArguments":"8",
+        "category":"ARG",
+        "type":"PO",
+        "force": "1",
+        "value": "50"
+      },
+      {
+        "IdArguments":"9",
+        "category":"ARG",
+        "type":"CO",
+        "force": "2",
+        "value": "150"
+      },
+      {
+        "IdArguments":"10",
+        "category":"ARG",
+        "type":"PO",
+        "force": "3",
+        "value": "200"
+      },
+      {
+        "IdArguments":"11",
+        "category":"ARG",
+        "type":"CO",
+        "force": "3",
+        "value": "200"
+      },
+      {
+        "IdArguments":"12",
+        "category":"TRA",
+        "type":"AL",
+        "force": "?",
+        "value": "?"
+      },
+      {
+        "IdArguments":"13",
+        "category":"TRA",
+        "type":"JA",
+        "force": "?",
+        "value": "?"
+      }
+]
+}
+  

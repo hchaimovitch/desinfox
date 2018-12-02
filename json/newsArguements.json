@@ -1,0 +1,65 @@
+{
+  "newsArguements": [
+    {
+      "IdNews": "1",
+      "IdArguments":"1",
+      "Type":"PO"
+    },
+    {
+        "IdNews": "1",
+        "IdArguments":"2",
+        "Type":"PO"
+    },
+    {
+        "IdNews": "1",
+        "IdArguments":"3",
+        "Type":"CO"
+    },
+    {
+        "IdNews": "1",
+        "IdArguments":"4",
+        "Type":"CO"
+    },
+    {
+        "IdNews": "2",
+        "IdArguments":"1",
+        "Type":"PO"
+      },
+      {
+        "IdNews": "2",
+        "IdArguments":"2",
+        "Type":"PO"
+      },
+      {
+        "IdNews": "2",
+        "IdArguments":"3",
+        "Type":"CO"
+      },
+      {
+        "IdNews": "2",
+        "IdArguments":"5",
+        "Type":"CO"
+      },
+    {
+        "IdNews": "3",
+        "IdArguments":"5",
+        "Type":"PO"
+      },
+      {
+        "IdNews": "3",
+        "IdArguments":"6",
+        "Type":"PO"
+      },
+      {
+        "IdNews": "3",
+        "IdArguments":"4",
+        "Type":"CO"
+      },
+      {
+        "IdNews": "3",
+        "IdArguments":"2",
+        "Type":"CO"
+      }
+]
+}
+  
